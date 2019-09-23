@@ -5,6 +5,11 @@ Artificial Intelligence
 ![AI](https://miro.medium.com/max/2800/0*RQPrQvkZNDJOGI1t)
 
 
+
+> "..that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves. We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer."
+- A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (McCarthy et al, 1955)
+
+
 ## Week 1: Introduction to Python and Algorithms
 
   - [K-Nearest Neighbor Algorithm](https://colab.research.google.com/drive/1QXbDthLa_597F65lMUku98TFL8rXLD2j)
