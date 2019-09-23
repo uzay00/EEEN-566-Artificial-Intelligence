@@ -72,8 +72,8 @@ Artificial Intelligence
  # Resources
  
   
-Data Science :  https://www.coursera.org/specializations/data-science-python
-Statistical MAchine Learning: https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
-Artificial Intelliegence : https://courses.edx.org/courses/course-v1:UCSanDiegoX+DS220x+1T2018/course/
-Deep Learning: https://www.coursera.org/specializations/deep-learning
+ - Data Science :  https://www.coursera.org/specializations/data-science-python
+ - Statistical MAchine Learning: https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+ - Artificial Intelliegence : https://courses.edx.org/courses/course-v1:UCSanDiegoX+DS220x+1T2018/course/
+ - Deep Learning: https://www.coursera.org/specializations/deep-learning
  
