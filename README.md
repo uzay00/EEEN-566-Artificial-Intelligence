@@ -31,17 +31,26 @@ Artificial Intelligence
   
  ## Week 7: Midterm
  
+ ## Week 8: Articles and Projects
+  - Propose a term project
+  
+ ## Week 9: Genetic Algorithms
  
+ ## Week 10: Reinforcement Learning 
  
+ ## Week 11: Deep Reinforcement Learning 
  
- ## Week 8: Genetic Algorithms
+ ## Week 12: Advanced Topics in Deep Learning
  
- ## Week 9: Articles 
+ ## Week 13: Student Project Presentations I
  
- ## Week 9: Articles 
+ ## Week 14: Student Project Presentations II
  
+ ## Week 15: Student Project Presentations III
  
+ ## Week 16: Final
  
+ ## Week 17: Final
  
  
  
