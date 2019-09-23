@@ -3,7 +3,7 @@ Artificial Intelligence
 
 ## Week 1: Introduction to Python and Algorithms
 
-  - [K-Nearest Neighbor Algorithm](https://colab.research.google.com/drive/1QXbDthLa_597F65lMUku98TFL8rXLD2j#scrollTo=28N_ym_6pSUd)
+  - [K-Nearest Neighbor Algorithm](https://colab.research.google.com/drive/1QXbDthLa_597F65lMUku98TFL8rXLD2j)
   
 ## Week 2: Introduction to Machine Learning
 
@@ -36,6 +36,7 @@ Artificial Intelligence
   
  ## Week 9: Genetic Algorithms
   - [Shortest Path](https://github.com/uzay00/CMPE373/tree/master/2019/Lecture%203%20-%20Shortest%20Path%20with%20Genetic%20Algorithm)
+  - [Shortest Path Code](https://colab.research.google.com/drive/1GVyqyV7Cr-4dS-PtCwuI8oq-IEZWxQqW)
  
  ## Week 10: Reinforcement Learning 
   - [Simple Reinforcement Learning](https://github.com/uzay00/CMPE373/tree/master/2019/Lecture8%20-%20Reinforcement%20Learning)
