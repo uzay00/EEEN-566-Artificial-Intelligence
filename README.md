@@ -35,10 +35,13 @@ Artificial Intelligence
   - Propose a term project
   
  ## Week 9: Genetic Algorithms
+  - [Shortest Path](https://github.com/uzay00/CMPE373/tree/master/2019/Lecture%203%20-%20Shortest%20Path%20with%20Genetic%20Algorithm)
  
  ## Week 10: Reinforcement Learning 
- 
+  - [Simple Reinforcement Learning](https://github.com/uzay00/CMPE373/tree/master/2019/Lecture8%20-%20Reinforcement%20Learning)
+  
  ## Week 11: Deep Reinforcement Learning 
+ - [Deep Reinforcement Learning](https://github.com/uzay00/CMPE373/blob/master/2019/Lecture%2010%20-%20Revıew/UzayCetin_KaVe2019.pdf)
  
  ## Week 12: Advanced Topics in Deep Learning
  
