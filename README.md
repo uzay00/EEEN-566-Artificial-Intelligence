@@ -3,7 +3,6 @@ Artificial Intelligence
 
 ## Week 1: Introduction to python and Algorithms
 
-
   - [K-Nearest Neighbor Algorithm](https://colab.research.google.com/drive/1QXbDthLa_597F65lMUku98TFL8rXLD2j#scrollTo=28N_ym_6pSUd)
   
 ## Week 2: Introduction to Machine Learning
