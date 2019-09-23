@@ -17,11 +17,12 @@ Artificial Intelligence
  
  ## Week 4: Deep Learning
  
- - Keras Library
+ - [Keras Library](https://github.com/uzay00/KaVe-Egitim/tree/master/DerinOgrenme/DerinOgrenme-Keras)
  
  ## Week 5: Introduction to Data Science
  
- - Keras Library
+ - [Data Science](https://github.com/uzay00/CMPE251)
+ - [More](https://github.com/uzay00/KaVe-Egitim/tree/master/VeriBilimi)
  
  ## Week 6: Dimension Reduction
  
@@ -43,8 +44,10 @@ Artificial Intelligence
   
  ## Week 11: Deep Reinforcement Learning 
  - [Deep Reinforcement Learning](https://github.com/uzay00/CMPE373/blob/master/2019/Lecture%2010%20-%20Revıew/UzayCetin_KaVe2019.pdf)
+ - [DRL](https://github.com/uzay00/KaVe-Egitim/tree/master/DerinOgrenme/Reinforcement%20Learning)
  
  ## Week 12: Advanced Topics in Deep Learning
+ - [Advanced Topics in Deep Learning](https://github.com/uzay00/KaVe-Egitim/tree/master/DerinOgrenme)
  
  ## Week 13: Student Project Presentations I
  
