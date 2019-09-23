@@ -1,6 +1,11 @@
 # EEEN-566-Artificial-Intelligence
 Artificial Intelligence
 
+Assesment Methods And Criteria
+ - Project %40
+ - Midterm %30
+ - Final %30
+
 
 ![AI](https://miro.medium.com/max/2800/0*RQPrQvkZNDJOGI1t)
 
