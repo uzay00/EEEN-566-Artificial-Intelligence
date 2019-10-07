@@ -32,7 +32,7 @@ Assesment Methods And Criteria
  ## Week 4: Deep Learning
  
  - [Keras Library](https://github.com/uzay00/KaVe-Egitim/tree/master/DerinOgrenme/DerinOgrenme-Keras)
- - [link](https://colab.research.google.com/drive/1D3MntzBQqROvZXuMtt5PCNH4eZmxN4LK)
+ - [Keras for Sentiment Classification](https://colab.research.google.com/drive/1D3MntzBQqROvZXuMtt5PCNH4eZmxN4LK)
  
  ## Week 5: Introduction to Data Science
  
