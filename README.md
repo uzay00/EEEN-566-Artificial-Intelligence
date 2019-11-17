@@ -1,6 +1,10 @@
 # EEEN-566-Artificial-Intelligence
 Artificial Intelligence
 
+> As early as in 1959 Arthur Samuel, a pioneer in the field of artificial intelligence, defined
+machine learning as: ”The field of study that gives computers the ability to learn without
+being explicitly programmed”.
+
 Assesment Methods And Criteria
  - Project %40
  - Midterm %30
