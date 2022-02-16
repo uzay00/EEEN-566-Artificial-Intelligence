@@ -1,3 +1,7 @@
+
+# Deep Learning Course Material
+https://docs.google.com/document/d/1_Tw2ju1NEX9GTvyQSaMjhm7JIw5x8P0en8Hmj8sR_FQ/edit#heading=h.ntag2g8jgnan
+
 # EEEN-566-Artificial-Intelligence
 Artificial Intelligence
 
